@@ -4,7 +4,7 @@ Tetris_Engine is a fully functional tetris game engine that I created in my spar
 
 ## Getting Started
 
-Tetris_Engine is built to run using Python 3.7.2, but should work on any machine with Python 3 or higher. Simply clone this repository to get a copy of the souce files.  
+Tetris_Engine is built to run using Python 3.7.2, but it should work on any machine with Python 3 or higher. Simply clone this repository to get a copy of the souce files.  
 You can clone this project by running one of the following commands in the Linux console:  
 
 HTTPS: `git clone https://github.com/mwermert/Tetris_Engine.git`  
@@ -15,11 +15,9 @@ Tetris_Engine requires pygame version 1.9.6 and pylint version 2.2.2.
 
 ### Installing
 
-Navigate to the project root directory on the console and run the program from your terminal window or IDE (I am using VSCode).
+Navigate to the project root directory and run the program from your terminal window or IDE (I am using VSCode).
 
 ### How to Play
-
-##### In The Game
 
 When you run the program, the game will start immediately. In this game you have 4 control options.
 
@@ -35,7 +33,7 @@ As the game continues, the speed at which the pieces fall increases. The rest of
 
 ## Using this Code
 
-You are welcome to clone this code and use it if you would like to, but please make sure to credit me if you use this code in any work.
+You are welcome to clone this code and use it if you would like to, but please make sure to credit me if you use it in any work.
 
 ## Authors
   * Michael Wermert
